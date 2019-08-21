@@ -28,13 +28,13 @@
 
 
 # 1:GAMEDIR, VERSIONFILE [, GITHUBREPO ]
-1:KerbalConstructionTime, KerbalConstructionTime-Stock.version, KCT
+1:BackgroundProcessing, BackgroundProcessing.version, background-processing
 
 # compiler Compiler options and flags
 2c:-d:KSP1_4
 
 # 2:PROJNAME, PROJFILE, VERSIONFILE, PLUGINSFOLDER
-2:ackground-processing,BackgroundProcessing/BackgroundProcessing.csproj,BackgroundProcessing.version,GameData/BackgroundProcessing/Plugins
+2:background-processing,BackgroundProcessing/BackgroundProcessing.csproj,BackgroundProcessing.version,GameData/BackgroundProcessing/Plugins
 
 # 3:SOURCEFILE, DESTDIR
 3:BackgroundProcessing.version,GameData/BackgroundProcessing
