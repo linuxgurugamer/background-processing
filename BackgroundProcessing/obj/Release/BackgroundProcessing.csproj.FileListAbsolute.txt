@@ -1,0 +1,16 @@
+D:\Users\jbb\github\background-processing\BackgroundProcessing\bin\Release\BackgroundProcessing.dll
+D:\Users\jbb\github\background-processing\BackgroundProcessing\bin\Release\BackgroundProcessing.pdb
+D:\Users\jbb\github\background-processing\BackgroundProcessing\bin\Release\Assembly-CSharp.dll
+D:\Users\jbb\github\background-processing\BackgroundProcessing\bin\Release\UnityEngine.dll
+D:\Users\jbb\github\background-processing\BackgroundProcessing\bin\Release\UnityEngine.UI.dll
+D:\Users\jbb\github\background-processing\BackgroundProcessing\bin\Release\Assembly-CSharp-firstpass.dll
+D:\Users\jbb\github\background-processing\BackgroundProcessing\bin\Release\KSPTrackIR.dll
+D:\Users\jbb\github\background-processing\BackgroundProcessing\bin\Release\KSPAssets.dll
+D:\Users\jbb\github\background-processing\BackgroundProcessing\bin\Release\Mono.Cecil.dll
+D:\Users\jbb\github\background-processing\BackgroundProcessing\bin\Release\Ionic.Zip.dll
+D:\Users\jbb\github\background-processing\BackgroundProcessing\bin\Release\TDx.TDxInput.dll
+D:\Users\jbb\github\background-processing\BackgroundProcessing\bin\Release\RedShellSDK.dll
+D:\Users\jbb\github\background-processing\BackgroundProcessing\obj\Release\BackgroundProcessing.csproj.CoreCompileInputs.cache
+D:\Users\jbb\github\background-processing\BackgroundProcessing\obj\Release\BackgroundProcessing.csproj.CopyComplete
+D:\Users\jbb\github\background-processing\BackgroundProcessing\obj\Release\BackgroundProcessing.dll
+D:\Users\jbb\github\background-processing\BackgroundProcessing\obj\Release\BackgroundProcessing.pdb

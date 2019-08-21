@@ -1,0 +1,26 @@
+0.4.7
+	Added InstallChecker
+	Updated AssemblyVersion.tt
+	Added Jenkins build
+
+0.4.6
+	Adopted by Linuxgurugamer
+	Updated for 1.4.x
+	Added code to support ModuleResourceConverter
+	Added AssemblyVersion.tt to store version info in dll
+	Added logging class
+	Added ModuleBackgroundProcessing, to allow this to work on parts without having to modify code
+
+0.4.5
+	Updated for version 1.2.2 by buttercookie42 (thank you!)
+	Also maybe a fix for the NaN issue some people have been reporting (by several people other than me by now, I think)
+	A defense-in-depth change that should prevent NaN stuff being as much of a problem in future
+
+0.4.4
+	Incorporate JPLRepo's maintenance updates (Thanks JPLRepo!)
+	Incorporate ShotgunNinja's manual raycasting implementation for solar panels (Thanks ShotgunNinja!)
+
+0.4.1
+	Updated solar panels to more accurately match fancy new KSP 1.0 solar panels
+	Config file (GameData/PluginData/BackgroundProcessing/config.xml) which you can use to enable/disable parts of the mod, including which features are taken into account for solar power generation and which log messages you get
+	Resources are no longer drained from locked tanks
